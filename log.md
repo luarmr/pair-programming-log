@@ -20,3 +20,4 @@ session 18 on 2026-08-21T16:32:06
 session 19 on 2026-08-31T16:32:06
 session 20 on 2026-09-18T16:32:06
 session 21 on 2026-09-25T16:32:06
+session 22 on 2026-10-20T16:32:06
